@@ -37,7 +37,7 @@ $ npm install
 $ npm start
 ```
 
-### Lint
+### Linthjgj
 
 ```bash
 $ npm run lint
